@@ -1,0 +1,19 @@
+#alert {
+  margin-top: 10px;
+}
+#fourth-row {
+  justify-content: space-between;
+}
+#card-icons {
+  height: fit-content;
+}
+p {
+  margin-left: 720px;
+  color: gainsboro;
+  font-size: small;
+}
+#Message-textarea {
+  height: 150px;
+  width: 600px;
+  margin-left: 10px;
+}
